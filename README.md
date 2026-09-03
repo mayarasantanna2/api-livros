@@ -11,7 +11,7 @@
 **Mayara De Oliveira Sant’Anna**
 
 🎓 **Curso:** Técnico em Informática para Internet
-🏫 **Instituição:** ETEC
+🏫 **Instituição:** ETEC MCM
 👥 **Turma:** 3C
 👨‍🏫 **Professor:** Anderson Vanin
 📅 **Ano:** 2026
