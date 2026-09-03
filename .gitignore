@@ -1,0 +1,15 @@
+#ambientes virtuais
+venv/
+env/
+
+#cache do python
+_pycache__/
+*._pyc
+#arquivos de ambiente (caso use futuramente)
+.env
+
+#testes unitarios
+htmlcov/
+.coverage
+relatorio.html
+resultado.xml
