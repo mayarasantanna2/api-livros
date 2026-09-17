@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 10-Set-2026 às 12:50
+-- Tempo de geração: 17-Set-2026 às 12:35
 -- Versão do servidor: 10.4.22-MariaDB
 -- versão do PHP: 8.1.2
 
@@ -20,9 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Banco de dados: `biblioteca_db`
 --
-CREATE DATABASE biblioteca_db
-  CHARACTER SET utf8mb4
-  COLLATE utf8mb4_unicode_ci;
+
 -- --------------------------------------------------------
 
 --
@@ -63,7 +61,7 @@ ALTER TABLE `livros`
 -- AUTO_INCREMENT de tabela `livros`
 --
 ALTER TABLE `livros`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
